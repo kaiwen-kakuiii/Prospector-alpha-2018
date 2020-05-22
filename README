@@ -1,5 +1,6 @@
 # Prospector-alpha-2018
 Notes:
-1. run_prospector.py is designed for using multithread to fit a large sample.
-2. func.py has some functions like component (disintangle flux into different mechnism).
-3. When you draw from a results file, make sure using the same prospector model when you ran the MCMC.
+1. Carefully read all the comments will save you a lot of time!
+2. run_prospector.py is designed for using multithread to fit a large sample.
+3. func.py has some functions like component (disintangle flux into different mechnism).
+4. When you draw from a results file, make sure using the same prospector model when you ran the MCMC.
